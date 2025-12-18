@@ -1,0 +1,9 @@
+* glsl-spec
+
+The GLSL Spec as a datastructure.
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/cbaggers/glsl-spec.git |
+| commit  | f04476f                                        |
+| systems | glsl-spec                                      |
+|---------+------------------------------------------------|
